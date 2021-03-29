@@ -7,7 +7,7 @@ package gitintroduction;
 
 /**
  *
- * @author Mamoona
+ * @author Mamoona Rasheed
  */
 public class GitIntroduction {
 
